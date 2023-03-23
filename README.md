@@ -35,4 +35,7 @@ Here are some ideas to get you started:
   <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-transparent-png-svg-vector-2.png" alt="Android" height="40" >
   <img src="https://img.icons8.com/color/1x/html-5.png" alt="html5" height="40" >
   <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS" height="40" >
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="Javascript" height="40" >
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-6-226028.png" alt="Mysql" height="40" >
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="Mongodb" height="40" >
   </div>
