@@ -1,4 +1,5 @@
 ### Hi there I am Prathamesh Patil 🤙
+- 🔭 I’m currently working on Android Development and Machine Learning
 
 <!--
 **Prathamesh2642/Prathamesh2642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
