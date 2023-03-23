@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="40">
   <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-transparent-png-svg-vector-2.png" alt="Android" height="40" >
   <img src="https://img.icons8.com/color/1x/html-5.png" alt="html5" height="40" >
-  <img src="https://img.icons8.com/color/256/css3.png" alt="CSS" height="40" >
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS" height="40" >
