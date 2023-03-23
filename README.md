@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 </p>
 <div>
   <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="Java" height="40" >
+  <img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" alt="Java" height="40" >
