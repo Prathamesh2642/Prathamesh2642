@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh2642&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh2642" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh2642" alt="prathamesh2642" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/___prathamesh__" target="blank"><img src="https://img.shields.io/twitter/follow/___prathamesh__?logo=twitter&style=for-the-badge" alt="___prathamesh__" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
